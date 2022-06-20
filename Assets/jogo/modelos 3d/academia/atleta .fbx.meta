@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 69ec461a37338134bb2fd2e02f617f72
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -5017734748893411722
+    second: mancuerna|Camera.002Action.001
+  - first:
+      74: 7675264062233172048
+    second: mancuerna|mancuernaAction
+  - first:
+      74: 4375419906267482950
+    second: mancuerna|Mesh_0.001Action
+  - first:
+      74: 1497010581087812398
+    second: mancuerna|Mesh_0.002Action
+  - first:
+      74: -1184874909857794487
+    second: mancuerna|Mesh_0.002Action.001
+  - first:
+      74: -6410851566728441527
+    second: mancuerna|Mesh_0.002Action.002
+  - first:
+      74: 5997110435091348977
+    second: mancuerna|Mesh_0.002Action.004
+  - first:
+      74: -8471111586013505035
+    second: mancuerna|monkey eyesAction
+  - first:
+      74: -1937676432926991025
+    second: mancuerna|PlaneAction
+  - first:
+      74: 4030184893330472161
+    second: mancuerna|plateAction.001
+  - first:
+      74: -7091886613977047862
+    second: mancuerna|SphereAction
+  - first:
+      74: -3460530050817344098
+    second: Cena|Camera.002Action.001
+  - first:
+      74: -7479683018427089823
+    second: Cena|CenaAction.001
+  - first:
+      74: 9037680557677681878
+    second: Cena|Mesh_0.001Action
+  - first:
+      74: -4162122216426604130
+    second: Cena|Mesh_0.002Action
+  - first:
+      74: 3891861614071646166
+    second: Cena|Mesh_0.002Action.001
+  - first:
+      74: 4692532957924341199
+    second: Cena|Mesh_0.002Action.002
+  - first:
+      74: -5440794175552308472
+    second: Cena|Mesh_0.002Action.004
+  - first:
+      74: -4133450677851929140
+    second: Cena|monkey eyesAction
+  - first:
+      74: -7748446687889606533
+    second: Cena|PlaneAction
+  - first:
+      74: 1040390668313267586
+    second: Cena|plateAction.001
+  - first:
+      74: 1663828293523460070
+    second: Cena|PoseLib
+  - first:
+      74: 5172439411237829271
+    second: Cena|SphereAction
+  - first:
+      74: -5905379986354842149
+    second: monkey eyes|Camera.002Action.001
+  - first:
+      74: -625711873112686684
+    second: monkey eyes|Mesh_0.001Action
+  - first:
+      74: 8638707759061359208
+    second: monkey eyes|Mesh_0.002Action
+  - first:
+      74: -3815492100017148642
+    second: monkey eyes|Mesh_0.002Action.001
+  - first:
+      74: -4053891692465508519
+    second: monkey eyes|Mesh_0.002Action.002
+  - first:
+      74: 119584995436724605
+    second: monkey eyes|Mesh_0.002Action.004
+  - first:
+      74: -4149136233215949943
+    second: monkey eyes|monkey eyesAction
+  - first:
+      74: -1671000509569698322
+    second: monkey eyes|PlaneAction
+  - first:
+      74: 4036913243477503667
+    second: monkey eyes|plateAction.001
+  - first:
+      74: 1010429196102205939
+    second: monkey eyes|SphereAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
